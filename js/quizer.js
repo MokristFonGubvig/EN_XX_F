@@ -352,8 +352,23 @@ const EN_19XX_F_PACK_1 = 1;
 let en_19XX_f = [
 	{
 		pack : EN_19XX_F_PACK_1,
-		group : 'Afric Simone',
-		song : "Hafanana (1975)"
+		group : 'Aretha Franklin',
+		song : "A Natural Women (1967)"
+	},
+	{
+		pack : EN_19XX_F_PACK_1,
+		group : 'Nina Simone',
+		song : "Sinnerman (1962)"
+	},
+	{
+		pack : EN_19XX_F_PACK_1,
+		group : 'Lesley Gore',
+		song : "Sunshine, Lollipops And Rainbows (1963)"
+	},
+	{
+		pack : EN_19XX_F_PACK_1,
+		group : 'Nancy Sinatra',
+		song : "Suger Town (1966)"
 	}
 ];
 
