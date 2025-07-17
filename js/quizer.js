@@ -369,6 +369,16 @@ let en_19XX_f = [
 		pack : EN_19XX_F_PACK_1,
 		group : 'Nancy Sinatra',
 		song : "Suger Town (1966)"
+	},
+	{
+		pack : EN_19XX_F_PACK_1,
+		group : 'Dolly Parton',
+		song : "Jolene (1974)"
+	},
+	{
+		pack : EN_19XX_F_PACK_1,
+		group : 'Donna Summer',
+		song : "Hot Stuff (1979)"
 	}
 ];
 
