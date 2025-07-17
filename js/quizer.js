@@ -379,6 +379,16 @@ let en_19XX_f = [
 		pack : EN_19XX_F_PACK_1,
 		group : 'Donna Summer',
 		song : "Hot Stuff (1979)"
+	},
+	{
+		pack : EN_19XX_F_PACK_1,
+		group : 'Audrey Hepburn',
+		song : "Moon River (1961)"
+	},
+	{
+		pack : EN_19XX_F_PACK_1,
+		group : 'Barbra Streisand',
+		song : "When In Rome ( I Do As the Romans Do) (1964)"
 	}
 ];
 
