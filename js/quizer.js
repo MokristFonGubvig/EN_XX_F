@@ -373,12 +373,14 @@ let en_19XX_f = [
 	{
 		pack : EN_19XX_F_PACK_1,
 		group : 'Dolly Parton',
-		song : "Jolene (1974)"
+		song : "Jolene (1974)",
+		ignore : true
 	},
 	{
 		pack : EN_19XX_F_PACK_1,
 		group : 'Donna Summer',
-		song : "Hot Stuff (1979)"
+		song : "Hot Stuff (1979)",
+		ignore : true
 	},
 	{
 		pack : EN_19XX_F_PACK_1,
@@ -389,6 +391,11 @@ let en_19XX_f = [
 		pack : EN_19XX_F_PACK_1,
 		group : 'Barbra Streisand',
 		song : "When In Rome ( I Do As the Romans Do) (1964)"
+	},
+	{
+		pack : EN_19XX_F_PACK_1,
+		group : 'France Gall',
+		song : "Poupée de cire, poupée de son (1965)"
 	}
 ];
 
