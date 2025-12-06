@@ -396,6 +396,11 @@ let en_19XX_f = [
 		pack : EN_19XX_F_PACK_1,
 		group : 'France Gall',
 		song : "Poupée de cire, poupée de son (1965)"
+	},
+	{
+		pack : EN_19XX_F_PACK_1,
+		group : 'Janis Joplin',
+		song : "Maybe (1969)"
 	}
 ];
 
