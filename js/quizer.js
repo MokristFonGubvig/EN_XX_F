@@ -400,6 +400,12 @@ let en_19XX_f = [
 	{
 		pack : EN_19XX_F_PACK_1,
 		group : 'Janis Joplin',
+		song : "Maybe (1969)",
+		ignore : true
+	},
+	{
+		pack : EN_19XX_F_PACK_1,
+		group : 'Janis Joplin',
 		song : "Maybe (1969)"
 	}
 ];
